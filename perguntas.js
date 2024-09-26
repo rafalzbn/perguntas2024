@@ -1,24 +1,23 @@
 criaCartao(
-    'Questão 01',
-    'Quanto é 2+3?',
-    'A soma entre 2 e 3 é igual a 5.'
+    'Curitiba- NOME',
+    'O que significa CURITIBA?',
+    'Curitiba significa " aqui muito pinhão".'
 )
 
 criaCartao(
-    'Questão 02',
-    'A capital do Paraná é?',
-    'A capital do Paraná é Curitiba.'
-    
+    'Curitiba- APELIDO',
+    'Qual o apelido de Curitiba?',
+    'Cidade-sorriso.'
 )
 
 criaCartao(
-    'Questão 03',
-    'Quem foi que colonizou o Brasil?',
-    'Um páis com o nome de Portugal.'
+    'Curitiba- PRODUÇÂO',
+    'O que Curitiba produz?',
+    'Curitiba concentra uma cidade industrial que atua na indústria automobilística, metalmecânica, cimento, cerâmica, montagem de máquinas, tecidos, frigoríficos, além das agroindústrias que transformam produtos primários, como soja, milho, carne suína e madeira.'
 )
 
 criaCartao(
-    'Questão 04',
-    'Quem é o Melhor Professor do Universo???',
-    'É O BUYU!!!'
+    'Curitiba- IDADE',
+    'Quantos anos Curitiba tem?',
+    'No dia 29 de março, Curitiba, conhecida carinhosamente como Cidade Sorriso, comemora 331 anos de uma rica trajetória.'
 )
